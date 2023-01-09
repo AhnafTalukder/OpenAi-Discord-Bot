@@ -1,0 +1,7 @@
+{
+    "OPENAI_API_KEY":"get your own from the openAI website",
+
+    "token": "get your own from the discord developers website",
+    "CLIENT_ID": "get your own from the discord developers website"
+
+}
